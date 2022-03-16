@@ -3,7 +3,7 @@
 ## What's it?
 
 * Rebuild libWeChatSDK.a to WechatOpenSDK.xcframework.
-* Easy for swift/SPM to use.
+* Modules support and easy for Swift/SPM to use.
 * Support ios-arm64/ios-x86_64-simulator.
 * No support ios-arm64-simulator as libWeChatSDK.a do not support it.
 * Require iOS 13+/Xcode 13+

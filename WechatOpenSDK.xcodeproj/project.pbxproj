@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A012E16C27E18150001353A1 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		A05A98DA27E0CC9100311A46 /* WechatOpenSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = WechatOpenSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A05A98DD27E0CC9100311A46 /* WechatOpenSDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WechatOpenSDK.h; sourceTree = "<group>"; };
 		A05A98E427E0CCA500311A46 /* libWeChatSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libWeChatSDK.a; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		A05A98D027E0CC9100311A46 = {
 			isa = PBXGroup;
 			children = (
+				A012E16C27E18150001353A1 /* Package.swift */,
 				A05A990B27E0D5F900311A46 /* README.md */,
 				A05A98EC27E0CDBD00311A46 /* create-xcframework.sh */,
 				A05A98DC27E0CC9100311A46 /* WechatOpenSDK */,

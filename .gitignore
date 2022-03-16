@@ -23,6 +23,7 @@ Library/
 *.perspectivev3
 !default.perspectivev3
 .DS_Store
+WechatOpenSDK.xcframework.zip
 
 ## Obj-C/Swift specific
 *.hmap
