@@ -12,7 +12,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "WechatOpenSDK",
-                      url: "https://github.com/anotheren/WechatOpenSDK/releases/download/1.9.2/WechatOpenSDK.xcframework.zip",
-                      checksum: "66e8eebfc8724ec5083670052ed1b0a49e0eb168c94cea32e4a649ea635284a0"),
+                      url: "https://github.com/anotheren/WechatOpenSDK/releases/download/1.9.6/WechatOpenSDK.xcframework.zip",
+                      checksum: "143cbdc3ed5b126b9d0289c4f11a74486d9ed068cb97bc991d09a4da3a6abc36"),
     ]
 )
